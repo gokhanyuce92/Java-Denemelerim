@@ -1,0 +1,5 @@
+Gökhan Yüce,70,80,80,90
+Aleyna Ersoy,80,80,70,70
+Caner Demirci,70,60,65,70
+İlker Erman,50,40,40,60
+Özgür Şahin,60,60,55,70

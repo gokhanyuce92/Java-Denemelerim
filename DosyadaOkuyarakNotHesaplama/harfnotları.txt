@@ -1,0 +1,5 @@
+Gökhan Yüce isimli öğrencinin aldığı not : BA
+Aleyna Ersoy isimli öğrencinin aldığı not : BA
+Caner Demirci isimli öğrencinin aldığı not : CC
+İlker Erman isimli öğrencinin aldığı not : FF
+Özgür Şahin isimli öğrencinin aldığı not : DD
